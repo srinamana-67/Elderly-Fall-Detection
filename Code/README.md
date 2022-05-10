@@ -31,7 +31,7 @@ If the fall is detected in 20 frames of a video simultaneously then an alert is 
 python Fall_Detection.py
 ```
 ### Sample Output:
-![Alt text](https://github.com/srinamana-67/Elderly-Fall-Detection/blob/main/Screenshot%20(8).png)
-![Alt text](https://github.com/srinamana-67/Elderly-Fall-Detection/blob/main/Screenshot%20(16).png)
+![Alt text](https://github.com/srinamana-67/Elderly-Fall-Detection/blob/main/Code/Screenshot%20(8).png)
+![Alt text](https://github.com/srinamana-67/Elderly-Fall-Detection/blob/main/Code/Screenshot%20(16).png)
 ### Email Alert:
-![Alt text](https://github.com/srinamana-67/Elderly-Fall-Detection/blob/main/Screenshot%20(35).png)
+![Alt text](https://github.com/srinamana-67/Elderly-Fall-Detection/blob/main/Code/Screenshot%20(35).png)
